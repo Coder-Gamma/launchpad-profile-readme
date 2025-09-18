@@ -7,7 +7,7 @@
 
 # Launchpad: Profile README
 
-_Say hello to your community._
+Hi I'm Gamma ! I'm working towards becoming a full stack developer.
 
 
 <!-- 
